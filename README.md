@@ -3,7 +3,7 @@
 Here I have tried to create the live stock price predictor considering only last value as the
 feature, and used SVM to predict the output price.
 
-![Output Sample](Output/output.png)
+![Output Sample](output.png)
 
 ## How to run ?
 1. `pip install -r requirements.txt`

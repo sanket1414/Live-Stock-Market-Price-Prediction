@@ -1,5 +1,5 @@
 pandas-datareader==0.7.4
 dash==1.2.0
 dash-core-components==1.1.2
-dash-html-components==1.0.1
+dash-html-components==2.0.0
 yahoo-fin==0.8.2
